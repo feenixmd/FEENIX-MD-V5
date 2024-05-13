@@ -52,3 +52,10 @@ Enjoy the diverse features of the FEENIX-MD  to enhance your conversations and m
 
 ## Developer:
 - [**WhatsApp**](https://wa.me/94722807735)
+
+
+## `THANKS FORE` 
+
+
+   <a href="https://github.com/Feenixmd0"><img src="https://telegra.ph/file/67962912c8fdc629e8f3d.jpg" width=150 height=150></a>   
+
