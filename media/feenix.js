@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/FLASH-MD-WA-BOT;;;=>/g,"");
+var session = conf.session.replace(/FEENIX-MD-WA-BOT;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Flash-Md', "safari", "1.0.0"],
+            browser: ['Feenix-Md', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -874,7 +874,7 @@ ${metadata.desc}
 https://chat.whatsapp.com/L0RchYxWA8x2Lft8riYxny
 
 ║❒ *CONTACT FEENIX BOT DEVELOPER*
-https://wa.me/message/N7TZSLGQH2AKI1 
+https://wa.me/message/CD765TEDAS6CL1 
 
 
               *FEENIX-MD-V5*`;
