@@ -32,7 +32,7 @@
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/feenixmd/FEENIX-MD-V5/)
 
 ## DEPLOY IN KOYEB    
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/feenixmd/FEENIX-MD-V5)  
 
 
    </details>
