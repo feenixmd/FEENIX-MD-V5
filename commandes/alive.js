@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *FEENIX-MD-V5 by FEENIX MD is alive*`
+ *Sithu Zer Alive Now Made By Sithum Sathsara ⚙️*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -73,8 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("⚔ 𝐅𝐄𝐄𝐍𝐈𝐗 𝐌𝐃 𝐕5 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 𝗙𝗘𝗘𝗡𝗜𝗫 🍁");
-         repondre(" *Support feenix md ! dark sasiya")
+      await   repondre("⚔ SITHU ZER 𝐕5 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 SITHUM🍁");
+         repondre(" *DEVOLOPER SITHUM SATHSARA")
      }
  } else {
 
