@@ -31,7 +31,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧𝐅𝐄𝐄𝐍𝐈𝐗-𝐌𝐃-𝐕5✧────◆
+╭────✧SITHU-ZER-V5✧────◆
 │🍁 *Préfix* : ${s.PREFIXE}
 │🍀 *User* : ${s.OWNER_NAME}
 │🍁 *Mode* : ${mode}
@@ -40,13 +40,13 @@ const date = moment().format('DD/MM/YYYY');
 │🍀 *Time* : ${temps} 
 │🍁 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │🍀 *Platform* : ${os.platform()}
-│🍁 *Developer* : 𝐅𝐄𝐄𝐍𝐈𝐗
+│🍁 *Developer* : Sithum Sathsara👤
 │🍀 *Version* : 𝐯7.5.25
 ╰─────✧The-GOAT✧─────◆ \n\n`;
 
   let menuMsg=`  
 
-*FEENIX-V5 COMMANDS :*
+*SITHU-ZER-V5 COMMANDS :*
 ◇                             ◇
 `;
 
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *🍁𝐅𝐄𝐄𝐍𝐈𝐗🍁²0²⁴*                                         
+  *🤍SITHU-ZER🤍*                                         
 *╰═════════════⊷*
 `;
 
