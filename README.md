@@ -1,13 +1,13 @@
 
-## <p align="center"> FEENIX-MD-V5 WHATSAPP BOT
+## <p align="center"> SITHUWA ZER WHATSAPP BOT
 <br>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+FEENIX-MD-V5;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+FEENIX;RELEASED+DATE+24%2F03%2F2024." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SITHU ZER V5;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SITHUM SATHSARA👤;RELEASED+DATE+10%2F01%2F2025." alt="Typing SVG" /></a>
 </p>
 
 
-<img src="https://telegra.ph/file/7a563743fd9ed8149450c.jpg" width="540" height="280" />
-</p>         🍁 𝐅𝐄𝐄𝐍𝐈𝐗 𝐌𝐃 🍁
+<img src="https://files.catbox.moe/qhjlcj.jpg" width="540" height="280" />
+</p>         🤍 SITHU ZER 🤍
 
 ### Setup
 
@@ -22,11 +22,11 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="https://feenix-pair-page.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://Sithu-pair-page.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## QR CODE SCAN
 
-<a href="https://feenix-pair-page.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://sithu-pair-page.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/feenixmd/FEENIX-MD-V5/)
@@ -50,16 +50,16 @@ Contributions to Feenix-Md are welcome! If you have ideas for new features, impr
 
 ## License
 
-The FEENIX-MD is released.
+The SITHU ZER is released.
 
-Enjoy the diverse features of the FEENIX-MD  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the SITHU ZER to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**WhatsApp**](https://wa.me/94722807735)
+- [**WhatsApp**](https://wa.me/94757734216)
 
 
-## `THANKS FORE` 
+## `THANKS FOR 
 
 
-   <a href="https://github.com/Feenixmd0"><img src="https://telegra.ph/file/67962912c8fdc629e8f3d.jpg" width=150 height=150></a>   
+      
 
