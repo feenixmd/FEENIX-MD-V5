@@ -55,12 +55,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "💞" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "🍁 Feenix ", numero: "94722807735" },
-      { nom: "🍁 Feenix yt", numero: "https://www.youtube.com/@Feenix-id" },
+      { nom: "🍁 Sithu ", numero: "94757734216" },
+      { nom: "🍁 Sithu yt", numero: "https://www.youtube.com/@Feenix-id" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to FEENIX-MD-V5* here is the developer contact numbers 👇\n\n";
+    let message = "👋 *Welcome to SITHU-ZER-V5* here is the developer contact numbers 👇\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
