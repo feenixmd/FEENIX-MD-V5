@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"FEENIX-MD-V5",
+      "value":"SITHU-MD-V5",
       "required":false
 
     } ,
